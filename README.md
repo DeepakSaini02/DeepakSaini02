@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Saini</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
 
-- 🌱 <h3> I’m currently learning **Full Stack Web Development. </h3>**
-
+<h4>- 🌱  I’m currently learning **Full Stack Web Development.** </h4>
+  
 <h3>I’ve always been a problem solver, an observer, and have been enthusiastic about new technology. Recognizing these qualities in me has led me to learn full-stack development.</h3>
 
 - 📫 How to reach me **ds1504484@gmail.com**
