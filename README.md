@@ -1,5 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Saini</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
 <br/>
@@ -10,19 +8,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
-
-
-
 - 🌱 I’m currently learning **Full Stack Web Development at Masai School**
 
 - 👯 I’m looking to work as **Web Developer**
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/DeepakSaini02?tab=repositories)**
 
-- 📫 How to reach me **ds1504484@gmail.com**
+- 📫 Reach me at **ds1504484@gmail.com**
 
-- ⚡ Fun fact **I play games and watch the movies very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -49,10 +42,6 @@
 
   <br/>
     <a href="https://github.com/DeepakSaini02/github-readme-stats"><img alt="Deepak Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepakSaini02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/DeepakSaini02/github-readme-stats"><img alt="Deepak Saini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakSaini02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
@@ -62,24 +51,10 @@
 <br/>
 <br/>
 
-
 ## Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/deepak-saini-247677205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
  <a href = "https://twitter.com/ds15044848"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
 <a href = "https://medium.com/@15eiacs012"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
-
 </p>
-
-
-
 <br/>
-<br/>
-
-## 📗  Latest blog posts:
-
-- **[Cloning Snapdeal.com | A Functional And Visual Clone.](https://medium.com/@15eiacs012/clone-of-snapdeal-com-a9bf412675a7)**
-
-<br/>
-
