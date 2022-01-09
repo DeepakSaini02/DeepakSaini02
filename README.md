@@ -1,26 +1,85 @@
-<h1 align="center">Hi 👋, I'm Deepak Saini</h1>
-<h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h4>- 🌱  I’m currently learning **Full Stack Web Development.** </h4>
-  
-<h3>I’ve always been a problem solver, an observer, and have been enthusiastic about new technology. Recognizing these qualities in me has led me to learn full-stack development.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Saini</h1>
+<h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
+<br/>
+
+<h3 align="center">I’ve always been a problem solver, an observer, and have been enthusiastic about new technology. Recognizing these qualities in me has led me to learn full-stack development.
+</h3>
+
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
+
+
+
+- 🌱 I’m currently learning **Full Stack Web Development at Masai School**
+
+- 👯 I’m looking to work as **Web Developer**
+
+- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/DeepakSaini02?tab=repositories)**
 
 - 📫 How to reach me **ds1504484@gmail.com**
 
-- 📄 <a href="https://drive.google.com/file/d/13iH1V5jhgOYTN44165YhmXZZv_0Xbelq/view?usp=sharing">Resume</a> 
+- ⚡ Fun fact **I play games and watch the movies very often.**
 
+## 🚀 Languages and Tools:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepak-saini-247677205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-saini-247677205" height="30" width="40" /></a>
+<p align="left">  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://tailwindcss.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.W_Louhgy0qKrsRO8YfURpQHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7" width="48" height="40"/> </a> 
+     <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
+      <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+    <a href="https://expressjs.com" target="_blank" style="padding-left:8px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaksaini02&show_icons=true&locale=en" alt="deepaksaini02" /></p>
+<p align="center">
+    <a href="https://github.com/DeepakSaini02/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSaini02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaksaini02&" alt="deepaksaini02" /></p>
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/DeepakSaini02/github-readme-stats"><img alt="Deepak Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepakSaini02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/DeepakSaini02/github-readme-stats"><img alt="Deepak Saini's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakSaini02&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+<br/>
+<br/>
+
+<a href="https://github.com/DeepakSaini02/github-readme-activity-graph"><img alt="Deepak Saini Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeepakSaini02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/deepak-saini-247677205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href = "https://twitter.com/ds15044848"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
+<a href = "https://medium.com/@15eiacs012"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
+
+</p>
+
+
+
+<br/>
+<br/>
+
+## 📗  Latest blog posts:
+
+- **[Cloning Snapdeal.com | A Functional And Visual Clone.](https://medium.com/@15eiacs012/clone-of-snapdeal-com-a9bf412675a7)**
+
+<br/>
 
