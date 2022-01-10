@@ -1,60 +1,87 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Deepak Saini</h1>
-<h3 align="center">I'm a passionate Full Stack Web Developer.</h3>
-<br/>
+<p align="center">
+    <img src="https://coindsyz.com/wp-content/uploads/2021/05/1584023795.gif" width="60%" title="Intro Card" alt="Intro Card">
+  </p>
 
-<h3 align="center">I’ve always been a problem solver, an observer, and have been enthusiastic about new technology. Recognizing these qualities in me has led me to learn full-stack development.
-</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Deepak Saini</h1>
+<h3 align="center">I’ve always been a problem solver, an observer, and have been enthusiastic about new technology. Recognizing these qualities in me has led me to learn full-stack development. Passionate about coding and strongly interested in working as a web developer.</h3>
 
+
+
+<p align= "center">
+
+<img src="https://img.shields.io/badge/-Javascript-red"/>
+<img src="https://img.shields.io/badge/-ReactJS-blue"/>
+<img src="https://img.shields.io/badge/-NodeJS-green"/>
+<img src="https://img.shields.io/badge/-ExpressJS-blueviolet"/>
+<img src="https://img.shields.io/badge/-MongoDB-brightgreen"/>
+</p>
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Full Stack Web Development at Masai School**
+🌱 *I’m currently learning :* Full Stack web development
 
-- 👯 I’m looking to work as **Web Developer**
+💬 *Ask me about :* Data Structures and Algorithms, JavaScript, React, Redux and MongoDb
 
-- 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/DeepakSaini02?tab=repositories)**
-
-- 📫 Reach me at **ds1504484@gmail.com**
+🤓 I have a keen interest in 🤝 collaborating and building digital solutions that solve real-world 🌍 problems. I'm also a Design Thinking facilitator and a Creative Technologist who believes that the merger between Design Thinking and Digital Technologies will lead to the building of user-centered solutions that are impactful toward the betterment of society.
 
 
-## 🚀 Languages and Tools:
 
-<p align="left">  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://tailwindcss.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.W_Louhgy0qKrsRO8YfURpQHaHa?w=164&h=180&c=7&r=0&o=5&pid=1.7" width="48" height="40"/> </a> 
-     <a style="padding-right:8px;" href="https://www.npmjs.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/npm.png"/> </a> 
-      <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <a href="https://expressjs.com" target="_blank" style="padding-left:8px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+🥅 *2022 Goals :* Learning new things and contribute more
 
+
+📫 You can reach me at [chat](https://www.linkedin.com/in/deepak-saini-247677205/) 
+
+---
+
+## Tech & Tools Preference 🎓
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux-purple?style=flat&logo=reduc&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-ExpressJs-787878?style=flat">
+<img src="https://img.shields.io/badge/-NodeJs-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-222222?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/-Netlify-blue?style=flat&logo=netlify&logoColor=white">
 <br/>
 
 <p align="center">
-    <a href="https://github.com/DeepakSaini02/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSaini02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSaini02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="dev-saj" />
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/DeepakSaini02/github-readme-stats"><img alt="Deepak Saini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DeepakSaini02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepakSaini02&show_icons=true&locale=en" alt="dev-saj" />
+    </p>
+     
+  <p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakSaini02&show_icons=true&locale=en&layout=compact" alt="dev-saj" />
+    </p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
-
-<a href="https://github.com/DeepakSaini02/github-readme-activity-graph"><img alt="Deepak Saini Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeepakSaini02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
+
+<a href="https://github.com/DeepakSaini02/github-readme-activity-graph"><img alt="Saj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeepakSaini02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 <br/>
 
-## Connect with me:
+## You can find in me in the web 🌍
+
 <p align="left">
-<a href = "https://www.linkedin.com/in/deepak-saini-247677205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- <a href = "https://twitter.com/ds15044848"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> 
-<a href = "https://medium.com/@15eiacs012"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png"/></a>
+
+<a target="_blank" href = "https://portfolio-deepak-saini.netlify.app//"><img src="https://img.shields.io/badge/-Portfolio%20Website-222?style=flat&logo=medium&logoColor=white"/></a>
+<a target="_blank" href = "https://twitter.com/ds15044848"><img src="http://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a target="_blank" href = "mailto:ds1504484@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+
+
 </p>
-<br/>
+
+
+---
