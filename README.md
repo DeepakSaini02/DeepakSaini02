@@ -51,16 +51,16 @@
 <br/>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSaini02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="dev-saj" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakSaini02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="dev" />
 </p>
 
  
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepakSaini02&show_icons=true&locale=en" alt="dev-saj" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeepakSaini02&show_icons=true&locale=en" alt="dev" />
     </p>
      
   <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakSaini02&show_icons=true&locale=en&layout=compact" alt="dev-saj" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakSaini02&show_icons=true&locale=en&layout=compact" alt="dev" />
     </p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -68,11 +68,11 @@
 
 <br/>
 
-<a href="https://github.com/DeepakSaini02/github-readme-activity-graph"><img alt="Saj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeepakSaini02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/DeepakSaini02/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DeepakSaini02&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
-## You can find in me in the web 🌍
+## You can find me in the web 🌍
 
 <p align="left">
 
